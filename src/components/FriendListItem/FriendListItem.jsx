@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
 import clsx from 'clsx';
-//
+// сначала желательно абсолютные импорты, затем относительные
 import css from './FriendListItem.module.css';
 
 export const FriendListItem = ({ avatar, name, isOnline }) => (

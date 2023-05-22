@@ -1,4 +1,4 @@
-import user from '../user.json';
+import user from '../user.json'; //json парсится в {} под капотом
 import friends from '../friends.json';
 import data from '../data.json';
 import transactions from '../transactions.json';
